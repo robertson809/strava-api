@@ -1,3 +1,5 @@
+# Authored by Fancis Polignano, franchyze923 @ GitHub
+
 1) Get authorization code from authorization page. This is a one time, manual step. 
 Paste the below code in a browser, hit enter then grab the "code" part from the resulting url. 
 
